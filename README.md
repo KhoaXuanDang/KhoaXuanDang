@@ -1,4 +1,12 @@
-### Hi there 👋
+👋 Hi, I’m @KhoaXuanDang, a University of Cincinnati Computer Science student.
+
+👀 I'm passionate about software development and coding, with a focus on Java and Python. 
+
+🌱 Currently, I'm exploring the Django framework for building RESTful APIs for the backend.
+
+💞️ I’m looking to collaborate on expanding my programming knowledge and skills.
+
+Let's code and learn together! 💻✨
 
 <!--
 **KhoaXuanDang/KhoaXuanDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
