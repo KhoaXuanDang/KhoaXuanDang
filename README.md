@@ -64,4 +64,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/khoa-dang-ba97b922b/)
 
 ---
-⭐️ From [Your Username](https://github.com/KhoaXuanDang)
+⭐️ From [KhoaXuanDang](https://github.com/KhoaXuanDang)
