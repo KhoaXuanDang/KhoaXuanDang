@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Khoa Dang  ┗( ＾0＾)┓
+# 👋 Hi there, I'm Keith Dang.  三 ┗( ＾0＾)┓
 
 💼 Software Engineer with a passion for building impactful applications and exploring cutting-edge technologies.
 
